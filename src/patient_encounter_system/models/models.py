@@ -7,7 +7,7 @@ from sqlalchemy import (
     DateTime,
     ForeignKey,
     Index,
-    UniqueConstraint,
+    
 )
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
